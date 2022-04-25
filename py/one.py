@@ -1,2 +1,2 @@
 a=10
-print("kavitha")
+print(a)
