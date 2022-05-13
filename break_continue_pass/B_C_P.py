@@ -44,6 +44,11 @@ print("////////////////////////////////////////////")
 
 for i in range(1,21):
     if(i%3!=0):
-        pass
+        continue
     else:
         print(i)
+
+for j in "kiranpintu":
+    if j=="p" or j=="i":
+        pass
+    print(j)
