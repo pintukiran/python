@@ -33,3 +33,5 @@ print("Array C=", C)
 print("---Slicing--------------")
 n=arr.array('i',[1,2,3,4,5,6])
 print(a[0:4])
+for x in c[0:6]:
+    print(x)
